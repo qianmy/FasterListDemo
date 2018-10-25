@@ -20,7 +20,7 @@ import {
 } from 'react-native';
 
 type Props = {};
-const CITY_NAMES = ['北京', '上海', '广州', '深圳', '杭州', '苏州'];
+const CITY_NAMES = ['北京', '上海', '广州', '深圳', '杭州', '苏州','成都','武汉'];
 export default class SwipeableFlatListDemo extends Component<Props> {
     constructor(props) {
         super(props);
